@@ -5,12 +5,12 @@
   
   <link href="/atom.xml" rel="self"/>
   
-  <link href="https://wiki.haowen-xu.com/"/>
+  <link href="https://wiki.ipwx.me/"/>
   <updated>2020-06-01T12:15:59.012Z</updated>
-  <id>https://wiki.haowen-xu.com/</id>
+  <id>https://wiki.ipwx.me/</id>
   
   <author>
-    <name>Haowen Xu</name>
+    <name>ipwx</name>
     
   </author>
   
@@ -18,8 +18,8 @@
   
   <entry>
     <title>Stochastic Gradient descent</title>
-    <link href="https://wiki.haowen-xu.com/Deep_Learning/Optimization/Stochastic_Gradient_Descent/"/>
-    <id>https://wiki.haowen-xu.com/Deep_Learning/Optimization/Stochastic_Gradient_Descent/</id>
+    <link href="https://wiki.ipwx.me/Deep_Learning/Optimization/Stochastic_Gradient_Descent/"/>
+    <id>https://wiki.ipwx.me/Deep_Learning/Optimization/Stochastic_Gradient_Descent/</id>
     <published>2020-05-29T17:53:26.000Z</published>
     <updated>2020-06-01T12:15:59.012Z</updated>
     
@@ -34,17 +34,17 @@
     
     </summary>
     
-      <category term="Deep_Learning" scheme="https://wiki.haowen-xu.com/categories/Deep-Learning/"/>
+      <category term="Deep_Learning" scheme="https://wiki.ipwx.me/categories/Deep-Learning/"/>
     
-      <category term="Optimization" scheme="https://wiki.haowen-xu.com/categories/Deep-Learning/Optimization/"/>
+      <category term="Optimization" scheme="https://wiki.ipwx.me/categories/Deep-Learning/Optimization/"/>
     
     
   </entry>
   
   <entry>
     <title>Visualizing High Dimensional Space</title>
-    <link href="https://wiki.haowen-xu.com/Deep_Learning/Evaluation/Visualizing_High_Dimensional_Space/"/>
-    <id>https://wiki.haowen-xu.com/Deep_Learning/Evaluation/Visualizing_High_Dimensional_Space/</id>
+    <link href="https://wiki.ipwx.me/Deep_Learning/Evaluation/Visualizing_High_Dimensional_Space/"/>
+    <id>https://wiki.ipwx.me/Deep_Learning/Evaluation/Visualizing_High_Dimensional_Space/</id>
     <published>2020-05-22T02:46:41.000Z</published>
     <updated>2020-06-01T12:15:59.000Z</updated>
     
@@ -59,17 +59,17 @@
     
     </summary>
     
-      <category term="Deep_Learning" scheme="https://wiki.haowen-xu.com/categories/Deep-Learning/"/>
+      <category term="Deep_Learning" scheme="https://wiki.ipwx.me/categories/Deep-Learning/"/>
     
-      <category term="Evaluation" scheme="https://wiki.haowen-xu.com/categories/Deep-Learning/Evaluation/"/>
+      <category term="Evaluation" scheme="https://wiki.ipwx.me/categories/Deep-Learning/Evaluation/"/>
     
     
   </entry>
   
   <entry>
     <title>Loss Surface and Generalization</title>
-    <link href="https://wiki.haowen-xu.com/Deep_Learning/Optimization/Loss_Surface_and_Generalization/"/>
-    <id>https://wiki.haowen-xu.com/Deep_Learning/Optimization/Loss_Surface_and_Generalization/</id>
+    <link href="https://wiki.ipwx.me/Deep_Learning/Optimization/Loss_Surface_and_Generalization/"/>
+    <id>https://wiki.ipwx.me/Deep_Learning/Optimization/Loss_Surface_and_Generalization/</id>
     <published>2020-05-21T00:13:22.000Z</published>
     <updated>2020-06-01T12:15:59.008Z</updated>
     
@@ -84,17 +84,17 @@
     
     </summary>
     
-      <category term="Deep_Learning" scheme="https://wiki.haowen-xu.com/categories/Deep-Learning/"/>
+      <category term="Deep_Learning" scheme="https://wiki.ipwx.me/categories/Deep-Learning/"/>
     
-      <category term="Optimization" scheme="https://wiki.haowen-xu.com/categories/Deep-Learning/Optimization/"/>
+      <category term="Optimization" scheme="https://wiki.ipwx.me/categories/Deep-Learning/Optimization/"/>
     
     
   </entry>
   
   <entry>
     <title>Overview</title>
-    <link href="https://wiki.haowen-xu.com/Deep_Learning/Generative_Adversarial_Nets/Overview/"/>
-    <id>https://wiki.haowen-xu.com/Deep_Learning/Generative_Adversarial_Nets/Overview/</id>
+    <link href="https://wiki.ipwx.me/Deep_Learning/Generative_Adversarial_Nets/Overview/"/>
+    <id>https://wiki.ipwx.me/Deep_Learning/Generative_Adversarial_Nets/Overview/</id>
     <published>2020-03-21T04:07:29.000Z</published>
     <updated>2020-06-01T12:15:59.000Z</updated>
     
@@ -109,17 +109,17 @@
     
     </summary>
     
-      <category term="Deep_Learning" scheme="https://wiki.haowen-xu.com/categories/Deep-Learning/"/>
+      <category term="Deep_Learning" scheme="https://wiki.ipwx.me/categories/Deep-Learning/"/>
     
-      <category term="Generative_Adversarial_Nets" scheme="https://wiki.haowen-xu.com/categories/Deep-Learning/Generative-Adversarial-Nets/"/>
+      <category term="Generative_Adversarial_Nets" scheme="https://wiki.ipwx.me/categories/Deep-Learning/Generative-Adversarial-Nets/"/>
     
     
   </entry>
   
   <entry>
     <title>Evaluation Metrics</title>
-    <link href="https://wiki.haowen-xu.com/Deep_Learning/Evaluation/Evaluation_Metrics/"/>
-    <id>https://wiki.haowen-xu.com/Deep_Learning/Evaluation/Evaluation_Metrics/</id>
+    <link href="https://wiki.ipwx.me/Deep_Learning/Evaluation/Evaluation_Metrics/"/>
+    <id>https://wiki.ipwx.me/Deep_Learning/Evaluation/Evaluation_Metrics/</id>
     <published>2020-03-20T18:07:18.000Z</published>
     <updated>2020-06-01T12:15:59.000Z</updated>
     
@@ -134,17 +134,17 @@
     
     </summary>
     
-      <category term="Deep_Learning" scheme="https://wiki.haowen-xu.com/categories/Deep-Learning/"/>
+      <category term="Deep_Learning" scheme="https://wiki.ipwx.me/categories/Deep-Learning/"/>
     
-      <category term="Evaluation" scheme="https://wiki.haowen-xu.com/categories/Deep-Learning/Evaluation/"/>
+      <category term="Evaluation" scheme="https://wiki.ipwx.me/categories/Deep-Learning/Evaluation/"/>
     
     
   </entry>
   
   <entry>
     <title>Energy GAN</title>
-    <link href="https://wiki.haowen-xu.com/Deep_Learning/Generative_Adversarial_Nets/Energy_GAN/"/>
-    <id>https://wiki.haowen-xu.com/Deep_Learning/Generative_Adversarial_Nets/Energy_GAN/</id>
+    <link href="https://wiki.ipwx.me/Deep_Learning/Generative_Adversarial_Nets/Energy_GAN/"/>
+    <id>https://wiki.ipwx.me/Deep_Learning/Generative_Adversarial_Nets/Energy_GAN/</id>
     <published>2020-03-19T20:46:25.000Z</published>
     <updated>2020-06-01T12:15:59.000Z</updated>
     
@@ -159,17 +159,17 @@
     
     </summary>
     
-      <category term="Deep_Learning" scheme="https://wiki.haowen-xu.com/categories/Deep-Learning/"/>
+      <category term="Deep_Learning" scheme="https://wiki.ipwx.me/categories/Deep-Learning/"/>
     
-      <category term="Generative_Adversarial_Nets" scheme="https://wiki.haowen-xu.com/categories/Deep-Learning/Generative-Adversarial-Nets/"/>
+      <category term="Generative_Adversarial_Nets" scheme="https://wiki.ipwx.me/categories/Deep-Learning/Generative-Adversarial-Nets/"/>
     
     
   </entry>
   
   <entry>
     <title>Gradient Tricks</title>
-    <link href="https://wiki.haowen-xu.com/Deep_Learning/Optimization/Gradient_Tricks/"/>
-    <id>https://wiki.haowen-xu.com/Deep_Learning/Optimization/Gradient_Tricks/</id>
+    <link href="https://wiki.ipwx.me/Deep_Learning/Optimization/Gradient_Tricks/"/>
+    <id>https://wiki.ipwx.me/Deep_Learning/Optimization/Gradient_Tricks/</id>
     <published>2020-03-18T17:28:16.000Z</published>
     <updated>2020-06-01T12:15:59.008Z</updated>
     
@@ -184,17 +184,17 @@
     
     </summary>
     
-      <category term="Deep_Learning" scheme="https://wiki.haowen-xu.com/categories/Deep-Learning/"/>
+      <category term="Deep_Learning" scheme="https://wiki.ipwx.me/categories/Deep-Learning/"/>
     
-      <category term="Optimization" scheme="https://wiki.haowen-xu.com/categories/Deep-Learning/Optimization/"/>
+      <category term="Optimization" scheme="https://wiki.ipwx.me/categories/Deep-Learning/Optimization/"/>
     
     
   </entry>
   
   <entry>
     <title>f-GAN</title>
-    <link href="https://wiki.haowen-xu.com/Deep_Learning/Generative_Adversarial_Nets/f-GAN/"/>
-    <id>https://wiki.haowen-xu.com/Deep_Learning/Generative_Adversarial_Nets/f-GAN/</id>
+    <link href="https://wiki.ipwx.me/Deep_Learning/Generative_Adversarial_Nets/f-GAN/"/>
+    <id>https://wiki.ipwx.me/Deep_Learning/Generative_Adversarial_Nets/f-GAN/</id>
     <published>2020-03-16T22:58:04.000Z</published>
     <updated>2020-06-01T12:15:59.000Z</updated>
     
@@ -209,17 +209,17 @@
     
     </summary>
     
-      <category term="Deep_Learning" scheme="https://wiki.haowen-xu.com/categories/Deep-Learning/"/>
+      <category term="Deep_Learning" scheme="https://wiki.ipwx.me/categories/Deep-Learning/"/>
     
-      <category term="Generative_Adversarial_Nets" scheme="https://wiki.haowen-xu.com/categories/Deep-Learning/Generative-Adversarial-Nets/"/>
+      <category term="Generative_Adversarial_Nets" scheme="https://wiki.ipwx.me/categories/Deep-Learning/Generative-Adversarial-Nets/"/>
     
     
   </entry>
   
   <entry>
     <title>Mutual Information</title>
-    <link href="https://wiki.haowen-xu.com/Deep_Learning/Information_Theoretical/Mutual_Information/"/>
-    <id>https://wiki.haowen-xu.com/Deep_Learning/Information_Theoretical/Mutual_Information/</id>
+    <link href="https://wiki.ipwx.me/Deep_Learning/Information_Theoretical/Mutual_Information/"/>
+    <id>https://wiki.ipwx.me/Deep_Learning/Information_Theoretical/Mutual_Information/</id>
     <published>2020-03-16T20:02:24.000Z</published>
     <updated>2020-06-01T12:15:59.008Z</updated>
     
@@ -234,17 +234,17 @@
     
     </summary>
     
-      <category term="Deep_Learning" scheme="https://wiki.haowen-xu.com/categories/Deep-Learning/"/>
+      <category term="Deep_Learning" scheme="https://wiki.ipwx.me/categories/Deep-Learning/"/>
     
-      <category term="Information_Theoretical" scheme="https://wiki.haowen-xu.com/categories/Deep-Learning/Information-Theoretical/"/>
+      <category term="Information_Theoretical" scheme="https://wiki.ipwx.me/categories/Deep-Learning/Information-Theoretical/"/>
     
     
   </entry>
   
   <entry>
     <title>KL-Divergence</title>
-    <link href="https://wiki.haowen-xu.com/Deep_Learning/Information_Theoretical/KL-Divergence/"/>
-    <id>https://wiki.haowen-xu.com/Deep_Learning/Information_Theoretical/KL-Divergence/</id>
+    <link href="https://wiki.ipwx.me/Deep_Learning/Information_Theoretical/KL-Divergence/"/>
+    <id>https://wiki.ipwx.me/Deep_Learning/Information_Theoretical/KL-Divergence/</id>
     <published>2020-03-16T18:56:07.000Z</published>
     <updated>2020-06-01T12:15:59.008Z</updated>
     
@@ -259,17 +259,17 @@
     
     </summary>
     
-      <category term="Deep_Learning" scheme="https://wiki.haowen-xu.com/categories/Deep-Learning/"/>
+      <category term="Deep_Learning" scheme="https://wiki.ipwx.me/categories/Deep-Learning/"/>
     
-      <category term="Information_Theoretical" scheme="https://wiki.haowen-xu.com/categories/Deep-Learning/Information-Theoretical/"/>
+      <category term="Information_Theoretical" scheme="https://wiki.ipwx.me/categories/Deep-Learning/Information-Theoretical/"/>
     
     
   </entry>
   
   <entry>
     <title>Graph Auto-Encoder</title>
-    <link href="https://wiki.haowen-xu.com/Deep_Learning/Graph_Neural_Networks/Graph_Auto_Encoder/"/>
-    <id>https://wiki.haowen-xu.com/Deep_Learning/Graph_Neural_Networks/Graph_Auto_Encoder/</id>
+    <link href="https://wiki.ipwx.me/Deep_Learning/Graph_Neural_Networks/Graph_Auto_Encoder/"/>
+    <id>https://wiki.ipwx.me/Deep_Learning/Graph_Neural_Networks/Graph_Auto_Encoder/</id>
     <published>2020-03-11T23:38:10.000Z</published>
     <updated>2020-06-01T12:15:59.000Z</updated>
     
@@ -284,17 +284,17 @@
     
     </summary>
     
-      <category term="Deep_Learning" scheme="https://wiki.haowen-xu.com/categories/Deep-Learning/"/>
+      <category term="Deep_Learning" scheme="https://wiki.ipwx.me/categories/Deep-Learning/"/>
     
-      <category term="Graph_Neural_Networks" scheme="https://wiki.haowen-xu.com/categories/Deep-Learning/Graph-Neural-Networks/"/>
+      <category term="Graph_Neural_Networks" scheme="https://wiki.ipwx.me/categories/Deep-Learning/Graph-Neural-Networks/"/>
     
     
   </entry>
   
   <entry>
     <title>Image Segmentation</title>
-    <link href="https://wiki.haowen-xu.com/Deep_Learning/CV/Image_Segmentation/"/>
-    <id>https://wiki.haowen-xu.com/Deep_Learning/CV/Image_Segmentation/</id>
+    <link href="https://wiki.ipwx.me/Deep_Learning/CV/Image_Segmentation/"/>
+    <id>https://wiki.ipwx.me/Deep_Learning/CV/Image_Segmentation/</id>
     <published>2020-03-11T17:39:40.000Z</published>
     <updated>2020-06-01T12:15:58.996Z</updated>
     
@@ -309,17 +309,17 @@
     
     </summary>
     
-      <category term="Deep_Learning" scheme="https://wiki.haowen-xu.com/categories/Deep-Learning/"/>
+      <category term="Deep_Learning" scheme="https://wiki.ipwx.me/categories/Deep-Learning/"/>
     
-      <category term="CV" scheme="https://wiki.haowen-xu.com/categories/Deep-Learning/CV/"/>
+      <category term="CV" scheme="https://wiki.ipwx.me/categories/Deep-Learning/CV/"/>
     
     
   </entry>
   
   <entry>
     <title>Graph Convolution Network</title>
-    <link href="https://wiki.haowen-xu.com/Deep_Learning/Graph_Neural_Networks/Graph_Convolution_Network/"/>
-    <id>https://wiki.haowen-xu.com/Deep_Learning/Graph_Neural_Networks/Graph_Convolution_Network/</id>
+    <link href="https://wiki.ipwx.me/Deep_Learning/Graph_Neural_Networks/Graph_Convolution_Network/"/>
+    <id>https://wiki.ipwx.me/Deep_Learning/Graph_Neural_Networks/Graph_Convolution_Network/</id>
     <published>2020-03-07T19:02:45.000Z</published>
     <updated>2020-06-01T12:15:59.004Z</updated>
     
@@ -334,17 +334,17 @@
     
     </summary>
     
-      <category term="Deep_Learning" scheme="https://wiki.haowen-xu.com/categories/Deep-Learning/"/>
+      <category term="Deep_Learning" scheme="https://wiki.ipwx.me/categories/Deep-Learning/"/>
     
-      <category term="Graph_Neural_Networks" scheme="https://wiki.haowen-xu.com/categories/Deep-Learning/Graph-Neural-Networks/"/>
+      <category term="Graph_Neural_Networks" scheme="https://wiki.ipwx.me/categories/Deep-Learning/Graph-Neural-Networks/"/>
     
     
   </entry>
   
   <entry>
     <title>Node Embedding</title>
-    <link href="https://wiki.haowen-xu.com/Deep_Learning/Graph_Neural_Networks/Node_Embedding/"/>
-    <id>https://wiki.haowen-xu.com/Deep_Learning/Graph_Neural_Networks/Node_Embedding/</id>
+    <link href="https://wiki.ipwx.me/Deep_Learning/Graph_Neural_Networks/Node_Embedding/"/>
+    <id>https://wiki.ipwx.me/Deep_Learning/Graph_Neural_Networks/Node_Embedding/</id>
     <published>2020-03-06T01:07:30.000Z</published>
     <updated>2020-06-01T12:15:59.008Z</updated>
     
@@ -359,17 +359,17 @@
     
     </summary>
     
-      <category term="Deep_Learning" scheme="https://wiki.haowen-xu.com/categories/Deep-Learning/"/>
+      <category term="Deep_Learning" scheme="https://wiki.ipwx.me/categories/Deep-Learning/"/>
     
-      <category term="Graph_Neural_Networks" scheme="https://wiki.haowen-xu.com/categories/Deep-Learning/Graph-Neural-Networks/"/>
+      <category term="Graph_Neural_Networks" scheme="https://wiki.ipwx.me/categories/Deep-Learning/Graph-Neural-Networks/"/>
     
     
   </entry>
   
   <entry>
     <title>Directions to Explore</title>
-    <link href="https://wiki.haowen-xu.com/Research_Work/Directions_to_Explore/"/>
-    <id>https://wiki.haowen-xu.com/Research_Work/Directions_to_Explore/</id>
+    <link href="https://wiki.ipwx.me/Research_Work/Directions_to_Explore/"/>
+    <id>https://wiki.ipwx.me/Research_Work/Directions_to_Explore/</id>
     <published>2020-03-05T00:59:49.000Z</published>
     <updated>2020-06-01T12:15:59.028Z</updated>
     
@@ -381,15 +381,15 @@
     
     </summary>
     
-      <category term="Research_Work" scheme="https://wiki.haowen-xu.com/categories/Research-Work/"/>
+      <category term="Research_Work" scheme="https://wiki.ipwx.me/categories/Research-Work/"/>
     
     
   </entry>
   
   <entry>
     <title>Softmax Speedup</title>
-    <link href="https://wiki.haowen-xu.com/Deep_Learning/Confronting_Partition_Function/Softmax_Speedup/"/>
-    <id>https://wiki.haowen-xu.com/Deep_Learning/Confronting_Partition_Function/Softmax_Speedup/</id>
+    <link href="https://wiki.ipwx.me/Deep_Learning/Confronting_Partition_Function/Softmax_Speedup/"/>
+    <id>https://wiki.ipwx.me/Deep_Learning/Confronting_Partition_Function/Softmax_Speedup/</id>
     <published>2020-03-04T02:59:36.000Z</published>
     <updated>2020-06-01T12:15:59.000Z</updated>
     
@@ -404,17 +404,17 @@
     
     </summary>
     
-      <category term="Deep_Learning" scheme="https://wiki.haowen-xu.com/categories/Deep-Learning/"/>
+      <category term="Deep_Learning" scheme="https://wiki.ipwx.me/categories/Deep-Learning/"/>
     
-      <category term="Confronting_Partition_Function" scheme="https://wiki.haowen-xu.com/categories/Deep-Learning/Confronting-Partition-Function/"/>
+      <category term="Confronting_Partition_Function" scheme="https://wiki.ipwx.me/categories/Deep-Learning/Confronting-Partition-Function/"/>
     
     
   </entry>
   
   <entry>
     <title>Energy Function in Probabilistic Models</title>
-    <link href="https://wiki.haowen-xu.com/Deep_Learning/Energy_Based_Models/Energy_Function_in_Probabilistic_Models/"/>
-    <id>https://wiki.haowen-xu.com/Deep_Learning/Energy_Based_Models/Energy_Function_in_Probabilistic_Models/</id>
+    <link href="https://wiki.ipwx.me/Deep_Learning/Energy_Based_Models/Energy_Function_in_Probabilistic_Models/"/>
+    <id>https://wiki.ipwx.me/Deep_Learning/Energy_Based_Models/Energy_Function_in_Probabilistic_Models/</id>
     <published>2020-02-28T22:43:51.000Z</published>
     <updated>2020-06-01T12:15:59.000Z</updated>
     
@@ -429,17 +429,17 @@
     
     </summary>
     
-      <category term="Deep_Learning" scheme="https://wiki.haowen-xu.com/categories/Deep-Learning/"/>
+      <category term="Deep_Learning" scheme="https://wiki.ipwx.me/categories/Deep-Learning/"/>
     
-      <category term="Energy_Based_Models" scheme="https://wiki.haowen-xu.com/categories/Deep-Learning/Energy-Based-Models/"/>
+      <category term="Energy_Based_Models" scheme="https://wiki.ipwx.me/categories/Deep-Learning/Energy-Based-Models/"/>
     
     
   </entry>
   
   <entry>
     <title>Restricted Boltzmann Machine</title>
-    <link href="https://wiki.haowen-xu.com/Deep_Learning/Energy_Based_Models/Restricted_Boltzmann_Machine/"/>
-    <id>https://wiki.haowen-xu.com/Deep_Learning/Energy_Based_Models/Restricted_Boltzmann_Machine/</id>
+    <link href="https://wiki.ipwx.me/Deep_Learning/Energy_Based_Models/Restricted_Boltzmann_Machine/"/>
+    <id>https://wiki.ipwx.me/Deep_Learning/Energy_Based_Models/Restricted_Boltzmann_Machine/</id>
     <published>2020-02-28T18:56:31.000Z</published>
     <updated>2020-06-01T12:15:59.000Z</updated>
     
@@ -454,17 +454,17 @@
     
     </summary>
     
-      <category term="Deep_Learning" scheme="https://wiki.haowen-xu.com/categories/Deep-Learning/"/>
+      <category term="Deep_Learning" scheme="https://wiki.ipwx.me/categories/Deep-Learning/"/>
     
-      <category term="Energy_Based_Models" scheme="https://wiki.haowen-xu.com/categories/Deep-Learning/Energy-Based-Models/"/>
+      <category term="Energy_Based_Models" scheme="https://wiki.ipwx.me/categories/Deep-Learning/Energy-Based-Models/"/>
     
     
   </entry>
   
   <entry>
     <title>Tracking the Concepts</title>
-    <link href="https://wiki.haowen-xu.com/Research_Work/Tracking_the_Concepts/"/>
-    <id>https://wiki.haowen-xu.com/Research_Work/Tracking_the_Concepts/</id>
+    <link href="https://wiki.ipwx.me/Research_Work/Tracking_the_Concepts/"/>
+    <id>https://wiki.ipwx.me/Research_Work/Tracking_the_Concepts/</id>
     <published>2020-02-25T11:50:00.000Z</published>
     <updated>2020-06-01T12:15:59.028Z</updated>
     
@@ -476,15 +476,15 @@
     
     </summary>
     
-      <category term="Research_Work" scheme="https://wiki.haowen-xu.com/categories/Research-Work/"/>
+      <category term="Research_Work" scheme="https://wiki.ipwx.me/categories/Research-Work/"/>
     
     
   </entry>
   
   <entry>
     <title>Overview</title>
-    <link href="https://wiki.haowen-xu.com/Deep_Learning/Energy_Based_Models/Overview/"/>
-    <id>https://wiki.haowen-xu.com/Deep_Learning/Energy_Based_Models/Overview/</id>
+    <link href="https://wiki.ipwx.me/Deep_Learning/Energy_Based_Models/Overview/"/>
+    <id>https://wiki.ipwx.me/Deep_Learning/Energy_Based_Models/Overview/</id>
     <published>2020-02-25T08:45:00.000Z</published>
     <updated>2020-06-01T12:15:59.000Z</updated>
     
@@ -499,9 +499,9 @@
     
     </summary>
     
-      <category term="Deep_Learning" scheme="https://wiki.haowen-xu.com/categories/Deep-Learning/"/>
+      <category term="Deep_Learning" scheme="https://wiki.ipwx.me/categories/Deep-Learning/"/>
     
-      <category term="Energy_Based_Models" scheme="https://wiki.haowen-xu.com/categories/Deep-Learning/Energy-Based-Models/"/>
+      <category term="Energy_Based_Models" scheme="https://wiki.ipwx.me/categories/Deep-Learning/Energy-Based-Models/"/>
     
     
   </entry>
